@@ -1,0 +1,5 @@
+{
+  "name": "RAG PDF Chatbot",
+  "description": "Upload a PDF and ask questions about it using RAG, MongoDB, and Gemini.",
+  "requestFramePermissions": []
+}
